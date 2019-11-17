@@ -278,5 +278,8 @@
 
     <!-- Whether device has oled display -->
     <bool name="config_hasOledDisplay">false</bool>
+    
+    <!-- Shows the required view for in-display fingerprint -->
+    <bool name="config_supportsInDisplayFingerprint">false</bool>
 
 </resources>
